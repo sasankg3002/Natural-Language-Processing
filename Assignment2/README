@@ -1,0 +1,15 @@
+Versions of libraries used :
+Numpy - 1.21.6
+Pandas - 1.3.5
+nltk - 3.7
+Seaborn - 0.11.2
+Keras - 2.8.0
+Matplotlib - 3.2.2
+
+Additional tools used - gensim - Version - 3.6.0
+
+We have run all the three .ipynb notebooks in Google colab. It is recommended to use Google colab while running the code.
+We have attached three notebooks in the code folder : 
+POS_Tagging.ipynb - Assignment 1 (HMM Viterbi Symbolic)
+ViterbiVector.ipynb - Assignment 2 part 1 (HMM Viterbi Vector)
+Word2Vec.ipynb - Assignment 2 part 2 (FFNN with BP)
